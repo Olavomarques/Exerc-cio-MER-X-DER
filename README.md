@@ -1,1 +1,1 @@
-# ExercIcio-MER-X-DER
+# Exercicio-MER-X-DER
